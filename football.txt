@@ -1,5 +1,4 @@
-football player consist of.
-
+football player and ronaldo and ponnies
 skills
 tactics
 defense 
@@ -7,3 +6,4 @@ obsessive
 shorts
 mind play
 following features are ontained.
+adding ponnies
